@@ -9,7 +9,10 @@ Show graphs of the series
 
 ### Summary
 
-Things
+This project will include:
+* Identify trend, seasonality in time series
+* Use several techniques for modeling the time series and measure performance
+* Use several techniques for forecasting future values of the time series
 
 ```
 Code examples
