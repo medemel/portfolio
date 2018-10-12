@@ -31,7 +31,7 @@ Monthly reported cases of Measles, Mumps + Chickenpox in NYC (1928/31 - 1972):
 * [Mumps, 1928 - 1972](https://datamarket.com/data/set/22st/monthly-reported-number-of-cases-of-mumps-new-york-city-1928-1972#!ds=22st&display=line)
 * [Chickenpox, 1931 - 1972](https://datamarket.com/data/set/22v7/monthly-reported-number-of-chickenpox-new-york-city-1931-1972#!ds=22v7&display=line)
 
-Note: The data was first published in: Yorke, J.A. and London, W.P. (1973). "Recurrent Outbreaks of Measles, Chickenpox and Mumps", American Journal of Epidemiology, Vol. 98, pp. 469.
+Note: This data was first published in Yorke, J.A. and London, W.P. (1973). "Recurrent Outbreaks of Measles, Chickenpox and Mumps", American Journal of Epidemiology, Vol. 98, pp. 469.
 
 ## Resources
 
