@@ -5,8 +5,12 @@ What is the file all about?
 '''
 
 # imports
+import numpy as np
+import matplotlib.pyplot as plt
+
 from sklearn.model_selection import TimeSeriesSplit
-from sklearn.metrics import mean_absolute_percentage_error
+from sklearn.metrics import mean_squared_error
+
 
 
 
@@ -133,7 +137,7 @@ class HoltWinters:
 # HELPERS
 #########################
 
-def timeseriesCVscore(params, series, loss_function=mean_squared_error, slen=24):
+def timeseriesCVscore(params, series, loss_function=mean_squared_error, slen=12):
     """
         Returns error on CV  
         
@@ -175,7 +179,7 @@ def mean_absolute_percentage_error(y_true, y_pred):
     
 
 
-def plotHoltWinters(series, plot_intervals=False, plot_anomalies=False):
+def plotHoltWinters(series, model, plot_intervals=False, plot_anomalies=False):
     """
         series - dataset with timeseries
         plot_intervals - show confidence intervals
@@ -206,4 +210,5 @@ def plotHoltWinters(series, plot_intervals=False, plot_anomalies=False):
     plt.axvspan(len(series)-20, len(model.result), alpha=0.3, color='lightgrey')
     plt.grid(True)
     plt.axis('tight')
-    plt.legend(loc="best", fontsize=13);
+    plt.legend(loc="best", fontsize=13)
+    plt.show();
