@@ -1,0 +1,264 @@
+{
+    "created_at": "Thu Oct 18 04:06:41 +0000 2018",
+    "id": 1052772933859389441,
+    "id_str": "1052772933859389441",
+    "text": "RT @estadios_Spain: Debut of new floodlights at the Estadio Metropolitano \nAtl\u00e9tico Madrid vs Real Betis 09/09/1961 1-0 (Goal Antonio Dom\u00edn\u2026",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1625651299,
+        "id_str": "1625651299",
+        "name": "andy \ud83d\udd34\u26aa\ud83d\udd34 \ud83c\uddea\ud83c\uddf8 \ud83c\uddea\ud83c\uddf8",
+        "screen_name": "Andyatleti",
+        "location": null,
+        "url": null,
+        "description": "coraje y coraz\u00f3n",
+        "translator_type": "none",
+        "protected": false,
+        "verified": false,
+        "followers_count": 183,
+        "friends_count": 623,
+        "listed_count": 2,
+        "favourites_count": 604,
+        "statuses_count": 827,
+        "created_at": "Sat Jul 27 14:46:20 +0000 2013",
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "lang": "es",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/842482323702669315/ypAQGaic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/842482323702669315/ypAQGaic_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625651299/1478506966",
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Wed Oct 17 21:52:59 +0000 2018",
+        "id": 1052678887736561664,
+        "id_str": "1052678887736561664",
+        "text": "Debut of new floodlights at the Estadio Metropolitano \nAtl\u00e9tico Madrid vs Real Betis 09/09/1961 1-0 (Goal Antonio D\u2026 https://t.co/VXAQ4vCjGC",
+        "display_text_range": [
+            0,
+            140
+        ],
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": true,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 273312435,
+            "id_str": "273312435",
+            "name": "Estadios de Espa\u00f1a",
+            "screen_name": "estadios_Spain",
+            "location": "Mild Mild West, UK",
+            "url": "https://espanaestadios.com/",
+            "description": "Just Estadios, Just Spain. Photos, history & all the latest in news from the only English language site dedicated to the large & small stadiums of Spain",
+            "translator_type": "none",
+            "protected": false,
+            "verified": false,
+            "followers_count": 12075,
+            "friends_count": 166,
+            "listed_count": 194,
+            "favourites_count": 1119,
+            "statuses_count": 39286,
+            "created_at": "Mon Mar 28 07:26:25 +0000 2011",
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "profile_background_color": "E6D840",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_link_color": "F53414",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DEAD2A",
+            "profile_text_color": "E5320E",
+            "profile_use_background_image": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1023925143528194048/T4hAg39f_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1023925143528194048/T4hAg39f_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/273312435/1529661111",
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "extended_tweet": {
+            "full_text": "Debut of new floodlights at the Estadio Metropolitano \nAtl\u00e9tico Madrid vs Real Betis 09/09/1961 1-0 (Goal Antonio Dom\u00ednguez)\nBetis featured Luis Aragon\u00e9s in their line up https://t.co/V5MbRfdt4O",
+            "display_text_range": [
+                0,
+                170
+            ],
+            "entities": {
+                "hashtags": [],
+                "urls": [],
+                "user_mentions": [],
+                "symbols": [],
+                "media": [
+                    {
+                        "id": 1052677485446537218,
+                        "id_str": "1052677485446537218",
+                        "indices": [
+                            171,
+                            194
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DpvcmH8XoAIHGJD.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DpvcmH8XoAIHGJD.jpg",
+                        "url": "https://t.co/V5MbRfdt4O",
+                        "display_url": "pic.twitter.com/V5MbRfdt4O",
+                        "expanded_url": "https://twitter.com/estadios_Spain/status/1052678887736561664/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 950,
+                                "h": 332,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 238,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 950,
+                                "h": 332,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1052677485446537218,
+                        "id_str": "1052677485446537218",
+                        "indices": [
+                            171,
+                            194
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/DpvcmH8XoAIHGJD.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/DpvcmH8XoAIHGJD.jpg",
+                        "url": "https://t.co/V5MbRfdt4O",
+                        "display_url": "pic.twitter.com/V5MbRfdt4O",
+                        "expanded_url": "https://twitter.com/estadios_Spain/status/1052678887736561664/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 950,
+                                "h": 332,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 238,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 950,
+                                "h": 332,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6,
+        "favorite_count": 10,
+        "entities": {
+            "hashtags": [],
+            "urls": [
+                {
+                    "url": "https://t.co/VXAQ4vCjGC",
+                    "expanded_url": "https://twitter.com/i/web/status/1052678887736561664",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ],
+            "user_mentions": [],
+            "symbols": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "filter_level": "low",
+        "lang": "pt"
+    },
+    "is_quote_status": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "screen_name": "estadios_Spain",
+                "name": "Estadios de Espa\u00f1a",
+                "id": 273312435,
+                "id_str": "273312435",
+                "indices": [
+                    3,
+                    18
+                ]
+            }
+        ],
+        "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "pt",
+    "timestamp_ms": "1539835601664"
+}
